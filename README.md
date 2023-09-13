@@ -1,7 +1,7 @@
 ## Hello World !
 
-- 👋 I'm @LaureSaintAntonin, and i'm an apprentice full-stack developer ! Currently,
-i'm looking to find a job contract shared between work and school @adatechschool to
+- 👋 I'm @LaureSaintAntonin, and I'm an apprentice full-stack developer ! Currently,
+I'm looking to find a job contract shared between work and school @adatechschool to
 continue my learning (March 2024, 4 days at work / 1 day at school).
 
 - 👀 Before coding, I was working in an medical emergency call center,
