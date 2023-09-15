@@ -13,8 +13,7 @@ but I have decided to update my life for the coming years.
 newbie, so be kind please because my projects could be
 imperfect and may not be secure. 
 
-- 📫 You can reach me on my 
-[LinkedIn](www.linkedin.com/in/lauresaintantonin) 
+- 📫 You can reach me on my LinkedIn 😉
         
 
 Thank you 😀
