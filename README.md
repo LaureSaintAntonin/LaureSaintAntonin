@@ -1,5 +1,5 @@
-# <p align="center">    <iframe src="https://giphy.com/embed/xTiIzJSKB4l7xTouE8" width="480" height="208" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8"></a></p></p>
-  
+# <p align="center">Hello there</p>
+
 - 👋 I'm @LaureSaintAntonin, and I'm an apprentice full-stack developer ! Currently,
 I'm looking to find a job contract shared between work and school @adatechschool to
 continue my learning (Mai 2024 -> Mai 2025), 4 days at work / 1 day at school).
