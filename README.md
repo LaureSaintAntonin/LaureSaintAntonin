@@ -1,6 +1,6 @@
 # <p align="center">Hello there</p>
 
-![Image](octocat-1712077407463-min.png)
+![Image](m_octocat-1712077407463.png)
 
 - 👋 I'm @LaureSaintAntonin, and I'm an apprentice Back-end developer ! Currently,
 I'm looking to find a job contract shared between work and school @adatechschool to
