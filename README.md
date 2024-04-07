@@ -1,7 +1,10 @@
 ![Image](https://github.com/LaureSaintAntonin/LaureSaintAntonin/blob/main/Hello%20There.png)
+![Visitor Count](https://profile-counter.glitch.me/{LaureSaintAntonin}/count.svg)
+
 - 👋 I'm @LaureSaintAntonin, and I'm an apprentice Back-end developer ! Currently,
 I'm looking to find a job contract shared between work and school @adatechschool to
 continue my learning (Mai 2024 -> Mai 2025), 4 days at work / 1 day at school).
+
 
 
 ## 🛠️ Langages & Tools
@@ -14,14 +17,12 @@ continue my learning (Mai 2024 -> Mai 2025), 4 days at work / 1 day at school).
 
 
 
-## 🧐 Features    
+## 🧐 My projects    
 - 💻 You'll find my different projects full stack in these repositories. But I'm still a
 newbie, so be kind please because my projects could be imperfect, not really finished and may not be secure. 
 
 
-## 🙇 Author
-
-        
+## 🙇 Your Host
 
 - 📫 You can reach me on my 
 [LinkedIn](https://www.linkedin.com/in/lauresaintantonin/)
