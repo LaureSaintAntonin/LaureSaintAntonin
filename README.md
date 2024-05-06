@@ -28,7 +28,7 @@ newbie, so be kind please because my projects could be imperfect, not really fin
 [LinkedIn](https://www.linkedin.com/in/lauresaintantonin/)
          😉
         
-- And my [CV](https://github.com/LaureSaintAntonin/LaureSaintAntonin/blob/main/LaureSaintAntonin_DevBackEnd_Alternance2.pdf)
+- And my [CV](LaureSaintAntonin_DevFullStack_Alternance.pdf)
 
 
 Thank you 😀
