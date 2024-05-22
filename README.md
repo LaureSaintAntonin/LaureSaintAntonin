@@ -3,7 +3,7 @@
 
 - 👋 I'm @LaureSaintAntonin, and I'm an apprentice Back-end developer ! Currently,
 I'm looking to find a job contract shared between work and school @adatechschool to
-continue my learning (Mai 2024 -> Mai 2025), 4 days at work / 1 day at school).
+continue my learning (Asap 2024 -> 2025), 4 days at work / 1 day at school).
 
 
 
