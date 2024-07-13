@@ -27,8 +27,6 @@ newbie, so be kind please because my projects could be imperfect, not really fin
 - 📫 You can reach me on my 
 [LinkedIn](https://www.linkedin.com/in/lauresaintantonin/)
          😉
-        
-- And my [CV](LaureSaintAntonin_DevFullStack_Alternance.pdf)
 
 
 Thank you 😀
