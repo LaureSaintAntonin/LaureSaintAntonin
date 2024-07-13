@@ -1,4 +1,4 @@
-![Image](Hello There !.png)
+![Image](https://github.com/LaureSaintAntonin/LaureSaintAntonin/blob/main/Hello%20There%20!)
 ![Visitor Count](https://profile-counter.glitch.me/{LaureSaintAntonin}/count.svg)
 
 - 👋 I'm @LaureSaintAntonin, and I'm an apprentice Back-end developer ! Currently,
