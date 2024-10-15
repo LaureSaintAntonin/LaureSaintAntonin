@@ -10,19 +10,21 @@ continue my learning (Asap 2024 -> 2025), 4 days at work / 1 day at school).
 
 
 ## 🛠️ Langages & Tools
+- [Javascript](https://fr.wikipedia.org/wiki/JavaScript/) and [ReactJS/NEXTJS](https://nextjs.org/)
+- [HTML5](https://fr.wikipedia.org/wiki/HTML5/) and [CSS](https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade/) and [TailwindCSS](https://tailwindcss.com/)
+
 - [Python](https://www.python.org//) and [Django](https://www.djangoproject.com//)
 - [SQL](https://sql.sh/) and [MySQL](https://www.mysql.com/fr/)
 - [PHP](https://www.php.net/manual/fr/intro-whatis.php/) and [Laravel](https://laravel.com/)
+
 - [GIT](https://git-scm.com/) and [GitHub](https://github.com/)
-- 
- 
-- [HTML5](https://fr.wikipedia.org/wiki/HTML5/) and [CSS](https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade/) and [Javascript](https://fr.wikipedia.org/wiki/JavaScript/) 
+- [Docker](https://www.docker.com/)
 
 
 
 ## 🧐 My projects    
-- 💻 You'll find my different projects full stack in these repositories. But I'm still a
-newbie, so be kind please because my projects could be imperfect, not really finished and may not be secure. 
+- 💻 You'll find my different projects full stack in these repositories.
+- My Favorites are my [portfolio](https://portfolio-website-lauresaintantonins-projects.vercel.app/) and my app loventoutou. 
 
 
 ## 🙇 Your Host
